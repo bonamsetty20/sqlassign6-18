@@ -1,0 +1,8 @@
+D:\Phase2\Day6-18\ConAppProdcInventory\ConAppProdcInventory\bin\Debug\ConAppProdcInventory.exe.config
+D:\Phase2\Day6-18\ConAppProdcInventory\ConAppProdcInventory\bin\Debug\ConAppProdcInventory.exe
+D:\Phase2\Day6-18\ConAppProdcInventory\ConAppProdcInventory\bin\Debug\ConAppProdcInventory.pdb
+D:\Phase2\Day6-18\ConAppProdcInventory\ConAppProdcInventory\obj\Debug\ConAppProdcInventory.csproj.AssemblyReference.cache
+D:\Phase2\Day6-18\ConAppProdcInventory\ConAppProdcInventory\obj\Debug\ConAppProdcInventory.csproj.SuggestedBindingRedirects.cache
+D:\Phase2\Day6-18\ConAppProdcInventory\ConAppProdcInventory\obj\Debug\ConAppProdcInventory.csproj.CoreCompileInputs.cache
+D:\Phase2\Day6-18\ConAppProdcInventory\ConAppProdcInventory\obj\Debug\ConAppProdcInventory.exe
+D:\Phase2\Day6-18\ConAppProdcInventory\ConAppProdcInventory\obj\Debug\ConAppProdcInventory.pdb
